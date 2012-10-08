@@ -36,6 +36,6 @@ isConstructor: is this a constructor call?
 
 ## install
 
-``shell
+```shell
 npm install stackback
 ```
