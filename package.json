@@ -1,6 +1,6 @@
 {
   "name": "stackback",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "return list of CallSite objects from a captured stacktrace",
   "main": "index.js",
   "scripts": {
