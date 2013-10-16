@@ -18,7 +18,7 @@ module.exports = function(err) {
     var save = Error.prepareStackTrace;
 
     // replace capture with our function
-    Error.prepareStackTrace =  function(err, trace) {
+    Error.prepareStackTrace = function(err, trace) {
 
         // cache stack frames so we don't have to get them again
         // use a non-enumerable property
